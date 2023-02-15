@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Andika&family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,700;1,400;1,700&display=swap');
+body{
+    text-align: center;
+}
+.heading{
+    font-size:50px;
+    font-weight: bold;
+    font-family: "roboto";
+}
+.number{
+    font-size:75px;
+    font-weight: 900;
+    text-align: center;
+    font-family: roboto;
+}
+.button{
+    font-size:15px;
+    text-transform: uppercase;
+    border:2px solid black;
+    background-color:transparent;
+    border-radius:6px;
+    padding: 5px;
+    margin-left: 10px;
+}
